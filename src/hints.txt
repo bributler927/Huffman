@@ -1,0 +1,5 @@
+-read one bit at a time  for the compressed file
+-when compressing, read bits per word
+
+use 65 instead of ,A,
+BYTE_SIZE + 1 for 9
